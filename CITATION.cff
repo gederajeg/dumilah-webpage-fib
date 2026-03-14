@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  The source code of the webpage for DUMILAH (Digital
+  Humanities Landscape at the Faculty of Humanities)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+identifiers:
+  - type: url
+    value: 'https://fib.unud.ac.id/pages/digital-humanities'
+    description: DUMILAH's official webpage
+repository-code: 'https://github.com/gederajeg/dumilah-webpage-fib'
+keywords:
+  - Digital Humanities
+  - Udayana University
+  - Faculty of Humanities
+  - DUMILAH
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2026-03-13'
